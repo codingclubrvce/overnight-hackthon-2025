@@ -1,5 +1,5 @@
-name: Hackathon Submission
-description: Add a hackathon submission
+name: Overnight Hackathon Submission
+description: Click Here to Submit Your Hackathon Project
 title: "[Project]: "
 labels: ["submission", "needreview"]
 body:
@@ -12,7 +12,7 @@ body:
     attributes:
       label: Name
       description: Enter your full name
-      placeholder: Aditya Oberai
+      placeholder: Full Name
     validations:
       required: true
   - type: input
@@ -72,7 +72,7 @@ body:
     attributes:
       label: Project Repo
       description: Share a public repo link of your project
-      placeholder: https://github.com/code-capture/CodeCapture-Xamarin
+      placeholder: https://github.com/github-id/project-repo
     validations:
       required: true
   - type: input
