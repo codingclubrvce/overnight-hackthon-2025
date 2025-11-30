@@ -76,6 +76,14 @@ body:
     validations:
       required: true
   - type: input
+    id: ppt-link
+    attributes:
+      label: Presentation (PPT) Link
+      description: Share a publicly visible presentation (PPT) link of your project
+      placeholder: https://docs.google.com/presentation/d/your-presentation-id
+    validations:
+      required: true
+  - type: input
     id: demo-link
     attributes:
       label: Demo Video/Photos
