@@ -42,9 +42,9 @@ body:
   - type: textarea
     id: inspiration
     attributes:
-      label: Inspiration behind the Project
-      description: What is the story behind this project? Why did you choose to work on this specific idea?
-      placeholder: The reason I chose this idea/project was...
+      label: Key Features
+      description: describe the key features of your project which makes it unique from the solutions that already exist in the market
+      placeholder: 
     validations:
       required: true
   - type: textarea
