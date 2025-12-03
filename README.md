@@ -29,7 +29,20 @@ The following problem statements are part of the hackathon (select one when subm
 
 ## Judging Criteria
 
-Submissions will be evaluated based on the following criteria (**Total: 100 Points**):
+### Round 1 Judging (**Total: 100 Points**)
+
+| Criteria                                | Points |
+| --------------------------------------- | ------ |
+| Problem Understanding & Impact          | 15     |
+| Innovation & Creativity                 | 15     |
+| Technical Implementation & Code Quality | 25     |
+| Repository Structure & Documentation    | 15     |
+| Functional Code / Video Demo            | 20     |
+| Feasibility & Practicality              | 10     |
+
+For a more detailed breakdown of Round 1 criteria, check out the [detailed_judging_criteria_round1.md](detailed_judging_criteria_round1.md).
+
+### Round 2 Judging (**Total: 100 Points**)
 
 | Criteria                       | Points |
 | ------------------------------ | ------ |
@@ -40,11 +53,11 @@ Submissions will be evaluated based on the following criteria (**Total: 100 Poin
 | Demonstration & Presentation   | 10     |
 | Feasibility & Practicality     | 10     |
 
-For a more detailed breakdown of each criterion check out the [detailed_judging_criteria.md](detailed_judging_criteria.md).
+For a more detailed breakdown of Round 2 criteria, check out the [detailed_judging_criteria_round2.md](detailed_judging_criteria_round2.md).
 
 ## Submission Requirements
 
-For this round, participants are expected to submit the following:
+participants are expected to submit the following:
 
 ### 📊 Pitch Deck
 

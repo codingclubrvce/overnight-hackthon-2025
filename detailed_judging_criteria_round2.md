@@ -1,4 +1,4 @@
-# Hackathon Judging Criteria
+# Round 1 - Detailed Judging Criteria
 
 **Total: 100 Points**
 
