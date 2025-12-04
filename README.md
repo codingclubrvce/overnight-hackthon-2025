@@ -37,7 +37,7 @@ The following problem statements are part of the hackathon (select one when subm
 | Innovation & Creativity                 | 15     |
 | Technical Implementation & Code Quality | 25     |
 | Repository Structure & Documentation    | 15     |
-| Functional Code / Video Demo            | 20     |
+| Hosted Link / Video Demo                | 20     |
 | Feasibility & Practicality              | 10     |
 
 For a more detailed breakdown of Round 1 criteria, check out the [detailed_judging_criteria_round1.md](detailed_judging_criteria_round1.md).
@@ -68,6 +68,10 @@ Strictly adhere to it and do not increase the number of slides.
 ### 💻 Functional Code
 
 Ensure your code can be installed and run without any issues.
+
+### 🌐 Hosted Website Link / Working Demo
+
+A hosted website link or a video demo is **compulsory** for your submission to be considered for evaluation.
 
 ### 📄 Documentation (README file)
 

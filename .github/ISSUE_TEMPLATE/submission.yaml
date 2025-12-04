@@ -97,18 +97,11 @@ body:
   - type: input
     id: demo-link
     attributes:
-      label: Demo Video/Photos
-      description: Share a publicly visible demo video/photos link of your project
+      label: Demo Video / Website Link 
+      description: Share a publicly visible demo video/ website link of your project
       placeholder: https://www.youtube.com/watch?v=9IBaX1avYWc
     validations:
-      required: false
-  - type: textarea
-    id: anything-else
-    attributes:
-      label: Anything Else?
-      description: Any other feedback, queries or information, you would like to share with us?
-    validations:
-      required: false
+      required: true
   - type: checkboxes
     id: terms
     attributes:
