@@ -3,7 +3,7 @@
 
 * Hackers must form a team of 3 - 4 members.
 
-* The hackathon will start at **<5th December 11PM>** and end at **6th December 9AM**, you work on your project during the allotted time only. Older projects will not be allowed. We will require you to build your project on the hackathon weekend.
+* The hackathon will start at **5th December 11PM** and end at **6th December 9AM**, you work on your project during the allotted time only. Older projects will not be allowed. We will require you to build your project on the hackathon weekend.
 
 * There are *12* problem statements of the hackathon, you must submit a project that belongs to one of these problem statements.
 
